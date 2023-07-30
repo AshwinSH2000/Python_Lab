@@ -1,0 +1,3 @@
+she sells seashells on the seashore
+if she sells seashells, it will be seashore shells
+now reverse it
